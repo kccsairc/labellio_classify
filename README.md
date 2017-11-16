@@ -1,5 +1,5 @@
 # labellio_classify
-labellio_classifyは、labellioからダウンロードしたモデルを評価するためのツールです。
+labellio_classifyは、labellioからダウンロードしたモデルを評価するためのツールです。  
 以下のモジュールがインストールされていることが前提となります。
 ```sh
 python 2.7
